@@ -1,2 +1,2 @@
 # Machine-Learning-Notes
-On hands simulation
+Simulation 1：Lenear regression ve XGBoost fundemental test without any hyperparameter adjusted
